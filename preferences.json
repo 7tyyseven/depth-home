@@ -1,0 +1,4 @@
+[
+  { "property": "mod.depthhome.enabled", "label": "Pakai Depth Home sebagai new tab", "type": "checkbox", "defaultValue": true },
+  { "property": "mod.depthhome.set_homepage", "label": "Jadikan juga homepage (tombol Home & jendela baru)", "type": "checkbox", "defaultValue": true }
+]
