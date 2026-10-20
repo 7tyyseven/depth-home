@@ -1,4 +1,6 @@
 [
-  { "property": "mod.depthhome.enabled", "label": "Pakai Depth Home sebagai new tab", "type": "checkbox", "defaultValue": true },
+  { "property": "mod.depthhome.enabled", "label": "Aktifkan Depth Home", "type": "checkbox", "defaultValue": true },
+  { "property": "mod.depthhome.hook_blank_tab", "label": "Tab kosong (klik kanan / tahan '+ New Tab') membuka Depth Home", "type": "checkbox", "defaultValue": true },
+  { "property": "mod.depthhome.replace_newtab_off", "label": "Klik biasa '+ New Tab' juga membuka Depth Home (mematikan floating URL bar Zen)", "type": "checkbox", "defaultValue": false },
   { "property": "mod.depthhome.set_homepage", "label": "Jadikan juga homepage (tombol Home & jendela baru)", "type": "checkbox", "defaultValue": true }
 ]
